@@ -31,3 +31,5 @@ testem.log
 .bundle
 .READMe
 .private
+
+node_modules
